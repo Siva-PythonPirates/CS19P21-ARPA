@@ -5,17 +5,17 @@
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
-      "ConstantsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
     },
     {
-      "Path": "GetProcess.xaml",
+      "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "allProcess&Sequence_1"
+        "intCount&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
-      "ConstantsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
     }
   ]
